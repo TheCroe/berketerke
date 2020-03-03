@@ -9,9 +9,6 @@ elsif croe.start_with?("use alperenandroid/backdoor_apk")
 elsif croe.start_with?("show --help")
     puts "show mo"
     puts "show jumper"
-7.times { |alperen|
-     puts "#{alperen} set@croe>> "
-}
 else  
     puts "gçersi"
 
